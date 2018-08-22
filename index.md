@@ -1,37 +1,3 @@
 ## Welcome to HS Batch 1969 Website
 
-You can use the [editor on GitHub](https://github.com/rkgofiitk/collegiate69.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rkgofiitk/collegiate69.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Ravenshaw Collegiate School was founded in  1851  by T. E. Ravenshaw, the education commission of British India at Orisa at that time.  Initially,  the College also operated from the same premise. A new building for the school came up in 1905 from where it is operating now. The school has a special name across India due to its famous alumni  Netaji Subhas Bose. Wikipedia mentions it as Subhas Bose's school.  The school has a history and a  place in India's freedom movements. The location of the school was a landmark at the time it was established, especially Cuttack being the seat of power for the British India when the state of Orissa   came into existence in 1936.  The school premise is located in an ideal settings near the bank of the river Kathjori (a tributary of the river Mahanadi). The buildings are iconic as are the class rooms with big windows. Unfortunately, the successive state governments have been apathetic to both secondary and primary education in the state. Hence, the school is really in bad shape.  It needs substantial infusion of funds both for the improvement of infrastructure and the running of day to day activities.  
