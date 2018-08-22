@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to HS Batch 1969 Website
 
 You can use the [editor on GitHub](https://github.com/rkgofiitk/collegiate69.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
